@@ -1,0 +1,20 @@
+student_scores{}
+
+number_of_students = input('How many students in your class?>')
+number_of_questions = input('How many questions were on this assignment?>')
+
+student_count(range(0, int(number_of_students))
+
+for student in student_count:
+    student_name = input('Please enter the students name.>')
+    student_score = input("please enter the score>")
+    student_scores.append(student_name, student_score)
+
+   
+
+ print (number_of_students)
+print (number_of_questions)
+print (student_name)
+print (student_score)
+print (results)
+
